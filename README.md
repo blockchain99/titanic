@@ -15,7 +15,8 @@ full_data = pd.read_csv(in_file)
 Program is written in python 2.7, it one may need anaconda shoulde be installed(including numpy, scipy, pandas, matplotlib, jupyter) ( https://docs.continuum.io/anaconda/install ) or install python 2.7 and then install Numpy, Scipy, Pandas, matplotlib,jupyter manually as follows.
 
 sudo pip install numpy scipy matplotlib
-after anaconda installed , one may need to jupyter run, by type in command line and hit the enter. > jupyter notebook and then upload and select Titanic_Survival_Exploration_yoonsu.ipynb in web page.
+
+After anaconda installed , one may need to jupyter run, by type in command line and hit the enter. > jupyter notebook and then upload and select Titanic_Survival_Exploration_yoonsu.ipynb in web page.
 
 ### Meta
 
